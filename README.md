@@ -1,2 +1,2 @@
-#test-website
-A basic front end website that displays images on the screen
+# basic frontend
+I made this webpage to practice my abilities with HTML and CSS 
